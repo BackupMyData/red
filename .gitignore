@@ -168,6 +168,9 @@ cython_debug/
 #.idea/
 
 # Ruff stuff:
+
+.DS_Store
+.sh
 .ruff_cache/
 
 # PyPI configuration file
