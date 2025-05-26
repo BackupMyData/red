@@ -3,7 +3,7 @@
 ✅☁️ <<-- 🧊
 
 
-![BackupMayDataAnimatLogo](https://github.com/BackupMyData/red/blob/main/red.gif)
+![logoanim](https://github.com/BackupMyData/red/blob/main/red.gif)
 
 
 ## Backup My Data Project intro:
