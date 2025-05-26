@@ -29,14 +29,8 @@ KSA:
 
 
 
-Project:
-
-
-
-# مشروع Red / Red Project
-
-مشروع لإدارة النسخ الاحتياطي الذكي بخصائص متقدمة  
-A smart backup management system with advanced features
+# مشروع لإدارة النسخ الاحتياطي الذكي بخصائص متقدمة  
+# A smart backup management system with advanced features
 
 ## العرض التوضيحي / Demo
 
