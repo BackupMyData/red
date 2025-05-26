@@ -2,8 +2,10 @@
 
 ✅☁️ <<-- 🧊
 
+```markdown
+![BackupMayDataAnimatLogo](https://github.com/BackupMyData/red/blob/main/red.gif)
+```
 
-![وصف الصورة](https://github.com/BackupMyData/red/blob/main/red.gif)
 ## Backup My Data Project intro:
 ### Dr. redwan faid
 Call for more info: 
