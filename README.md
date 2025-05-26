@@ -3,14 +3,14 @@
 ✅☁️ <<-- 🧊
 
 
-![logoanim](https://github.com/BackupMyData/red/blob/main/red.gif)
+
 
 
 ## Backup My Data Project intro:
 ### Dr. redwan faid
 
 
-<img src="red.gif" alt="وصف الصورة" width="400">
+<img src="red.gif" alt="وصف الصورة" width="200">
 
 Call for more info: 
 
@@ -23,5 +23,5 @@ Yemen:
 KSA:
 +966-777-163-441
 
+<img src="logo.jpg" alt="وصف الصورة" width="200">
 
-![Logo](https://github.com/BackupMyData/red/blob/main/logo.jpg)
