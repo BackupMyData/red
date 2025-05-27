@@ -1,0 +1,16 @@
+{
+  "name": "node-red-backup",
+  "version": "1.0.0",
+  "description": "Node-RED backup utility",
+  "main": "red.js",
+  "scripts": {
+    "start": "node red.js --config backup-config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "node-red-backup": "./red.js"
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

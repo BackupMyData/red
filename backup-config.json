@@ -1,0 +1,5 @@
+{
+    "sourceDir": "/home/user/.node-red",
+    "backupDir": "/home/user/node-red-backups",
+    "retentionDays": 30
+}
